@@ -34,5 +34,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmitJL/todo-list.git"
+  },
+  "author": "dev.amit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmitJL/todo-list/issues"
+  },
+  "homepage": "https://github.com/AmitJL/todo-list#readme"
 }
